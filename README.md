@@ -28,4 +28,4 @@ Este proyecto de simulación en **MATLAB** evalúa el rendimiento de la capa fí
 
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/nmisu/Simulacion-LTE-MIMO-MATLAB.git](https://github.com/nmisu/Simulacion-LTE-MIMO-MATLAB.git)
+   git clone https://github.com/nmisu/Simulacion-LTE-MIMO-MATLAB.git
