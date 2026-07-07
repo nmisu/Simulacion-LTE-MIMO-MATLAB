@@ -1,6 +1,6 @@
 # Simulacion-LTE-MIMO-MATLAB
 Simulación en MATLAB del rendimiento de sistemas multi-antena (MIMO, MISO, SIMO) en una celda LTE, analizando SNR, BER y scheduling adaptativo multiusuario.
-# 📡 Simulación de Sistemas Multi-Antena (MIMO/MISO/SIMO) en LTE
+#  Simulación de Sistemas Multi-Antena (MIMO/MISO/SIMO) en LTE
 
 Este proyecto de simulación en **MATLAB** evalúa el rendimiento de la capa física de diferentes configuraciones de sistemas de múltiples antenas en el enlace descendente de una celda LTE. Se analizan métricas clave como la Relación Señal a Ruido (SNR), la Tasa de Error de Bit (BER) y la Tasa de Transmisión bajo condiciones realistas de desvanecimiento.
 
